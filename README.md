@@ -44,7 +44,7 @@ It combines **ETL (Python)**, **Snowflake (Data Warehouse)**, and **Power BI (Vi
 ---
 
 ## 📸 Dashboard Preview
-![Supply Chain Dashboard](power_bi/dashboard.png)
+![Supply Chain Dashboard](supply_chain_dashboard.png)
 
 ---
 
